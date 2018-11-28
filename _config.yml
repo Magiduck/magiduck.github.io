@@ -114,7 +114,11 @@ author:
       url: "https://www.linkedin.com/in/tijs-van-lieshout/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:tijsvanlieshout@gmail.com
+    - label: "Workplace"
+      icon: "fas fa-flask"
+      url: "https://www.brounslab.org/"
+      url: mailto:tijsvanlieshout@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
