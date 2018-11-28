@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Tijs van Lieshout"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Tijs van Lieshout"
+description              : "My personal website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -92,6 +92,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+        -"https://www.linkedin.com/in/tijs-van-lieshout/"
 
 # Analytics
 analytics:
@@ -103,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Tijs van Lieshout"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Inquisitive Bioinformatics Student"
+  location         : "The Netherlands"
   email            :
   links:
     - label: "Email"
@@ -290,3 +291,11 @@ defaults:
       comments: # true
       share: true
       related: true
+      
+  #pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
