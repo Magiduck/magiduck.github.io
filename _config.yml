@@ -118,7 +118,6 @@ author:
     - label: "Workplace"
       icon: "fas fa-flask"
       url: "https://www.brounslab.org/"
-      url: mailto:tijsvanlieshout@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
