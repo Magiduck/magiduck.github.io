@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tijs van Lieshout"
+title                    : "TiVaLi"
 title_separator          : "-"
 name                     : "Tijs van Lieshout"
 description              : "My personal website"
@@ -92,7 +92,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-        -"https://www.linkedin.com/in/tijs-van-lieshout/"
 
 # Analytics
 analytics:
@@ -110,6 +109,9 @@ author:
   location         : "The Netherlands"
   email            :
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/tijs-van-lieshout/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
