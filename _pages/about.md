@@ -1,8 +1,8 @@
 ---
 title: "About"
-permalink:/about/
+permalink: /about/
 header:
-	image: "https://imgs.xkcd.com/comics/data_pipeline.png"
+  image: "https://imgs.xkcd.com/comics/data_pipeline.png"
 ---
 
 I study Bioinformatics at the HAN University of Applied Sciences in Nijmegen.
