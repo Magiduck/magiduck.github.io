@@ -20,7 +20,7 @@ title                    : "TiVaLi"
 title_separator          : "-"
 name                     : "Tijs van Lieshout"
 description              : "My personal website"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.tivali.nl"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -117,7 +117,8 @@ author:
       url: mailto:tijsvanlieshout@gmail.com
     - label: "Workplace"
       icon: "fas fa-flask"
-      url: "https://www.brounslab.org/"
+      # url: "https://www.brounslab.org/"
+      
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
