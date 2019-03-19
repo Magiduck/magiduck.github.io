@@ -6,6 +6,7 @@ header:
   image: "/assets/images/ArduinoSensor/arduino_logo.png"
 excerpt: "Sensor basics project for Sensor System Engineering"
 ---
-This is a test
+In the minor Sensor System Engineering I followed the elective "Sensor Basics".
+In this course we 
 
 {% include video id="gQmgiFgqIwc" provider="youtube" %}
