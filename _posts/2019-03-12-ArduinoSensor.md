@@ -1,6 +1,6 @@
 ---
 title: "Arduino sensor basics project"
-date: 2019-12-03
+date: 2019-03-19
 tags: [sensors, sensor system engineering, arduino]
 header:
   image: "/assets/images/ArduinoSensor/arduino_logo.png"
