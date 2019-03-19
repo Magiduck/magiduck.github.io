@@ -6,13 +6,26 @@ header:
   image: "/assets/images/ArduinoSensor/arduino_logo.png"
 excerpt: "Sensor basics project for Sensor System Engineering"
 ---
-In the minor Sensor System Engineering I followed the elective "Sensor Basics". In this course we got the assignment to write an application for the arduino Uno with two sensors.
+In the minor Sensor System Engineering I followed the elective "Sensor Basics". In this course we got the assignment to write an application for the Arduino Uno with two sensors.
 
-We chose apart from the potentiometer to also use the on-board photosensor of the innoesys educational shield.
+We chose apart from the potentiometer to also use the on-board photosensor of the Innoesys educational shield. The resulting values are displayed on three on-board LEDs and a servomotor acting as an analogue dial.
+
+The right button is used to switch between measuring the sensors. The left button toggles the LED display on and off.
+
+We also established communication to and from the Arduino. The user can send the following commands:
+-	__L__  turning on/off LED display
+-	__M__  Sending both sensor values once
+-	__C__ Sending both sensor values at a speed of 1Hz until toggling it off again
+-	__B__  Play a note through the buzzer based on the LEDvalue
+-	__S__  Toggling the use of the servo as a display
+
+
+Below you can find a live demo in video format.
+
 
 {% include video id="gQmgiFgqIwc" provider="youtube" %}
 
-The arduino code can be found below:
+The Arduino code can be found below:
 
 ```java
 /*
@@ -102,7 +115,7 @@ void loop() {
   } else {
     turnOffLEDs();
   }
-  // If the "C" command has been send then keep sending values at a speed of 1hz
+  // If the "C" command has been send then keep sending values at a speed of 1Hz
   if(keepReturningValues) {
     returnValuesContiniously();
   }
@@ -156,7 +169,7 @@ void determineButtonLeftPress(int buttonLeftState) {
 // For handling commands from the serial monitor:
 // L  turning on/off LED display
 // M  Sending both sensor values once
-// C  Sending both sensor values at a speed of 1hz until toggling it off again
+// C  Sending both sensor values at a speed of 1Hz until toggling it off again
 // B  Play a note through the buzzer based on the LEDvalue
 // S  Toggling the use of the servo as a display
 void handleCommands(int potentioMeter, int photoSensor) {
@@ -265,7 +278,7 @@ void turnOffLEDs() {
   digitalWrite(redPin, 0);  
 }
 
-// Used for sending both values at 1hz if the user has send the "U" command
+// Used for sending both values at 1Hz if the user has sent the "C" command
 void returnValuesContiniously() {
   unsigned long currentMillis = millis();
   if (currentMillis - previousMillis >= interval) {
