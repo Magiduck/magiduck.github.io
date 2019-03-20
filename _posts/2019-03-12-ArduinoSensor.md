@@ -72,7 +72,7 @@ unsigned long previousMillis = 0;
 const long interval = 1000;
 boolean keepReturningValues = false;
 // Pin of the buzzer for the "B" command (also used for the right button)
-int buzzer = 5;
+const int buzzer = 5;
 
 
 void setup() {
