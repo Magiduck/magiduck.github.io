@@ -51,4 +51,4 @@ Kivy and Buildozer together allow developers to create an Android application pa
 9.	At Terminal command prompt, type _buildozer_ _android_ _debug_ _deploy_ _run_
 10.	Wait a few minutes and you should be done!
 
-<a href="/assets/images/KivyBuildozer/table_1.png"><img src="/assets/KivyBuildozer/table_1.png"></a>
+<a href="/assets/images/KivyBuildozer/table_1.png"><img src="/assets/images/KivyBuildozer/table_1.png"></a>
