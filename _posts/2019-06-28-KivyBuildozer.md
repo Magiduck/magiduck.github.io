@@ -1,7 +1,7 @@
 ---
 title: "From Python to APK: How to use Kivy and Buildozer on Windows"
 date: 2019-06-28
-tags: [Guide, Python, Android, Kivy, Buildozer, APK]
+tags: [guide, python, android]
 header:
   image: "/assets/images/KivyBuildozer/kivy_logo.png"
 excerpt: "A guide on how to create Android applications from Python code"
