@@ -120,7 +120,7 @@ author:
       url: "https://bit.ly/2CIdw5x"
     - label: "Workplace"
       icon: "fas fa-flask"
-      url: "https://www.naturalis.nl/"
+      url: "https://www.fnobregalab.org/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -296,7 +296,7 @@ defaults:
       comments: # true
       share: true
       related: true
-      
+
   # _pages
   - scope:
       path: ""
