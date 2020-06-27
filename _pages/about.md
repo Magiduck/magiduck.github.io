@@ -5,6 +5,8 @@ header:
   image: "https://imgs.xkcd.com/comics/data_pipeline.png"
 ---
 
+I currently remotely work at the University of Southampton - Microbial Interactions Lab on different projects such as making the Bacterial Defense System Finder accessible for Biologists by converting it into a web interface.
+
 I recently finished my Bachelor of Science in Bioinformatics at the HAN University of Applied Sciences in Nijmegen.
 
 I did my Bachelor End Project at Naturalis in the analysis of automatic insect camera data. This project involved the detection, tracking, segmentation, identification and biomass estimation of insects with the use of deep learning.
