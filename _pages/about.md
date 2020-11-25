@@ -5,7 +5,9 @@ header:
   image: "https://imgs.xkcd.com/comics/data_pipeline.png"
 ---
 
-I currently remotely work at the University of Southampton - Microbial Interactions Lab on different projects such as making the Bacterial Defense System Finder accessible for Biologists by converting it into a web interface.
+I currently work as a student-assistant at the Bachelor of Bioinformatics from the Hanze University of Applied Sciences, where I am also a student in the master program Data Science for Life Sciences.
+
+Before this I worked on a research collaboration with Daan F. van den Berg and Franklin L. Nobrega on the DefenseSystemFinder tool.
 
 I recently finished my Bachelor of Science in Bioinformatics at the HAN University of Applied Sciences in Nijmegen.
 
