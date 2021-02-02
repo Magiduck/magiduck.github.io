@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "https://imgs.xkcd.com/comics/data_pipeline.png"
+  image: "/assets/images/data_pipeline.png"
 ---
 
 I currently work as a student-assistant at the Bachelor of Bioinformatics from the Hanze University of Applied Sciences, where I am also a student in the master program Data Science for Life Sciences.
