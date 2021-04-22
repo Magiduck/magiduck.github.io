@@ -5,7 +5,7 @@ tags: [bioinformatics, python]
 excerpt: "Research project Master DSLS"
 ---
 
-## The effect of an abrupt change to a four-week vegan diet on the body composition, mental health and gut microbiome
+## Visualizing the effect of veganism on the human body
 
 In my master Data Science for Life sciences I worked on a personal health project with Behzad Barati, Kylie Keyzer, André de la Rambelje and Henrike Vaartstra. In this project we looked at the effect of a sudden change in diet to a fully plant-based diet
 
