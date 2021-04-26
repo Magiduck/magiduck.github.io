@@ -7,7 +7,7 @@ excerpt: "Research project Master DSLS"
 
 ## Visualizing the effect of veganism on the human body
 
-In my master Data Science for Life sciences I worked on a personal health project with Behzad Barati, Kylie Keyzer, André de la Rambelje and Henrike Vaartstra. In this project we looked at the effect of a sudden change in diet to a fully plant-based diet
+In my master Data Science for Life sciences I worked on a personal health project with Behzad Barati, Kylie Keijzer, André de la Rambelje and Henrike Vaartstra. In this project we looked at the effect of a sudden change in diet to a fully plant-based diet
 
 This project was used as a way to improve in our data visualization skills. We created a Dashboard in Python with Panel and used the Bokeh visualization library for scientific plots.
 
