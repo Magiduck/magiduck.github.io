@@ -5,7 +5,9 @@ header:
   image: "/assets/images/Timeline_CV.png"
 ---
 
-I currently work as a student-assistant at the Bachelor of Bioinformatics from the Hanze University of Applied Sciences, where I am also a student in the master program Data Science for Life Sciences.
+I am currently working on my Master thesis at Ancora Health.
+
+I have worked as a student-assistant at the Bachelor of Bioinformatics from the Hanze University of Applied Sciences, where I am also a student in the master program Data Science for Life Sciences.
 
 Before this I worked on a research collaboration with Daan F. van den Berg and Franklin L. Nobrega on the DefenseSystemFinder tool.
 
