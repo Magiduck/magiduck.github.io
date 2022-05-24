@@ -34,6 +34,8 @@
   "resolutions": {
     "minimist": "1.2.6",
     "glob-parent" : "5.1.2",
-    "set-value": "2.0.1"
+    "set-value": "2.0.1",
+    "chownr": "1.1.0",
+    "kind-of": "6.0.3"
   }
 }
